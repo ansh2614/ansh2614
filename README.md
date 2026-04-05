@@ -68,13 +68,9 @@
 ## 📊 Stats & Activity
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ansh2614&show_icons=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh2614&theme=tokyonight" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ansh2614&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh2614&theme=tokyonight" />
 </p>
 
 
